@@ -9,6 +9,7 @@ This POM is just a copy/paste template that already have some dependencies cooke
 +  Spring Batch
 +  Spring Core, JDBC, Test
 +  Spock + Maven Plugin
++  DbUnit
 +  Hazelcast
 +  Logback
 
